@@ -13,3 +13,5 @@ let e=30
 let f=40
 
 console.log(e**f);
+
+console.log("rebase concept");
